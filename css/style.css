@@ -1,0 +1,111 @@
+
+#logo{
+	
+	font-size: 28px;  
+	margin-left: 50px;
+	
+}
+#logo a{
+
+	text-decoration: none;
+	color: #AD9271;
+}
+#logo a:hover{
+
+	
+	color: rgba( 179, 146 ,113 , 0.6);
+}
+
+.title{
+	width: 100%;
+	background: #2B2B2B;
+	padding:15px 0;
+	
+}
+
+.clearfix{
+	margin-top: 30px;
+}
+
+.headline{
+	font-size: 16pt;
+	font-family: '微軟正黑體';
+}
+
+h2{
+	color: #AD9271;
+	font-size: 20pt;
+}
+
+p{
+	font-size: 13pt;
+	font-family: '微軟正黑體';
+	color: #5E5E5E;
+	height: 4em;
+	width: 19em;
+	line-height: 1.5em;
+
+}
+#other_p{
+	width: 768px;
+
+
+}
+.footer{
+	background: #2B2B2B;padding: 0px 40px 0px 70px; }
+
+
+.footer p{
+	color: #c1c1c1;
+
+
+	}
+
+.btn{
+	margin-top: 15px;	
+	color: #2B2B2B;
+	border: 1px solid #2B2B2B;
+	border-radius: 0px;
+	
+}
+
+.btn:hover{
+	
+	color: #ffffff;
+	border: 1px solid #2B2B2B;
+	border-radius: 0px;
+	background: #2B2B2B;
+	
+}
+
+
+.v_demo{
+	position: relative;
+	display: inline-block;
+	float: left;	
+	color: #7C6041;
+	border: 1px solid #7C6041;
+	border-radius: 0px;
+	margin-right: 20px;
+
+}
+.v_demo:hover{
+	color: #ffffff;
+	border: 1px solid #7C6041;
+	border-radius: 0px;
+	background: #7C6041;
+
+}
+.b_other{
+
+	color: #ffffff;
+	border: none;
+	background: #161616;
+	padding: 10px;
+}
+
+.b_other:hover{
+
+	color:#7C6041;
+	border: none;
+}
